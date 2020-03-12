@@ -1,5 +1,5 @@
 ---
-title: "연습용 !"
+title: "연습용 "
 date: 2020-3-12 21:28:00 -0400
 categories: New
 ---
